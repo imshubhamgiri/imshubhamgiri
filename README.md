@@ -70,6 +70,4 @@ I'm always excited to connect with fellow developers, collaborate on interesting
   
 **Thanks for visiting my profile! Feel free to explore my repositories and don't hesitate to star ⭐ projects you find interesting!**
 
-![Visitor Count](https://profile-counter.glitch.me/imshubhamgiri/count.svg)
-
 </div>
