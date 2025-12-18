@@ -46,7 +46,7 @@ I'm a passionate **Web Developer** driven by innovation and a relentless pursuit
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imshubhamgiri&layout=compact&theme=radical&hide_border=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=imshubhamgiri&theme=radical&hide_border=true)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=imshubhamgiri&theme=radical&hide_border=true)
 
 </div>
 
