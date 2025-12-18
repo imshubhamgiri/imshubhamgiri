@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Web Developer** driven by innovation and a relentless pursuit of excellence. My career is fueled by curiosity, creativity, and a deep love for coding. I thrive on transforming ideas into reality through elegant and efficient solutions.
+I'm a passionate **Web Developer** driven by innovation and a relentless pursuit of excellence. My career is fueled by curiosity, creativity, and a deep love for coding. I thrive on transforming ideas into impactful digital experiences.
 
 - 💡 **Idea Generator**: I love brainstorming and bringing creative solutions to life
 - 🎯 **Goal-Oriented**: Focused on continuous improvement and achieving meaningful milestones
@@ -46,7 +46,7 @@ I'm a passionate **Web Developer** driven by innovation and a relentless pursuit
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imshubhamgiri&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=imshubhamgiri&theme=radical&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=imshubhamgiri&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
