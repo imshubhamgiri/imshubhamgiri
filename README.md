@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Web Developer** driven by innovation and a relentless pursuit of excellence. My career is fueled by curiosity, creativity, and a deep love for coding. I thrive on transforming ideas into elegant, functional solutions that make a difference.
+I'm Full Stac **Web Developer** driven by innovation and a relentless pursuit of excellence. My career is fueled by curiosity, creativity, and a deep love for coding. I thrive on transforming ideas into elegant, functional solutions that make a difference.
 
 - 💡 **Idea Generator**: I love brainstorming and bringing creative solutions to life
 - 🎯 **Goal-Oriented**: Focused on continuous improvement and achieving meaningful milestones
