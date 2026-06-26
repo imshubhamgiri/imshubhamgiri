@@ -27,7 +27,7 @@ I am a full-stack and backend software engineer specializing in high-concurrency
 
 ##  GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imshubhamgiri&show_icons=true&theme=visual)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imshubhamgiri&show_icons=true)
 
 ---
 
